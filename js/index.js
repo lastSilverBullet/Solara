@@ -5562,8 +5562,6 @@ function updateOnlineHighlight() {
 
 const EXPLORE_RADAR_GENRES = [
     "流行",
-    "乡村",
-    "R&B",
 ];
 
 function pickRandomExploreGenre() {
