@@ -5562,10 +5562,8 @@ function updateOnlineHighlight() {
 
 const EXPLORE_RADAR_GENRES = [
     "流行",
-    "古典音乐",
     "乡村",
     "R&B",
-    "轻音乐",
 ];
 
 function pickRandomExploreGenre() {
